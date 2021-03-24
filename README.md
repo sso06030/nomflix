@@ -1,3 +1,14 @@
+# Nomflix
+
+Learning React and ES6 by building a Movie Discovery App.
+
+## Screens
+
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
