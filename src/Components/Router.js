@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Redirect, Switch } from "react-router-dom";
-import Home from '../Routes/Home'
-import TV from '../Routes/TV'
-import Search from '../Routes/Search'
+import Home from '../Routes/Home/index'
+import TV from '../Routes/TV/index'
+import Search from '../Routes/Search/index'
 import Header from '../Components/Header'
 
 export default () => (
