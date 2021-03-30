@@ -5,7 +5,7 @@ import Loader from "../../Components/Loader";
 import Section from "../../Components/Section";
 
 const Container = styled.div`
-  padding: 0px 10px;
+  padding: 0px 20px;
 `;
 
 const TVPresenter = ({topRated,popular,airingToday, loading, error}) =>
