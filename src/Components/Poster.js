@@ -8,7 +8,7 @@ const Container = styled.div`
 `;
 
 const Image = styled.div`
-  backgounrd-image: url(${props=> props.bgUrl});
+  backgounrd-image: url(${props=> props.bgImage});
   height: 180px;
   background-size: cover;
   border-radius: 4px;
@@ -52,7 +52,7 @@ const Poster = ({id, imageUrl, title, rating, year, isMovie=false})=>(
     <Container>
       <ImageContainer>
         <Image
-          bgUrl={
+          bgImage={
           imageUrl
             ? `https://image.tmdb.org/t/p/w300${imageUrl}`
             : require("../assets/noPosterSamll.png")
