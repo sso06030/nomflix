@@ -43,6 +43,7 @@ const Cover = styled.div`
   background-image: url(${(props) => props.bgImage});
   background-position: center center;
   background-size: cover;
+  z-index: 3;
   height: 100%;
   border-radius: 5px;
 `;
