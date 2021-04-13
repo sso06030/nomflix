@@ -20,6 +20,15 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Movie Detail
 - [x] Search (Movie, TV)
 
+## Code Chanllenges
+
+- [ ] IMDB Link
+- [ ] Tabs inside of Movie / Show Details (YT Videos, Production Company & Countries)
+- [ ] Collections Link
+- [ ] /collections Route
+- [ ] On TV Show, show seasons and creators
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
